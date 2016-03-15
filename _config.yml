@@ -1,0 +1,28 @@
+name: Niyi Akinlabu
+favicon: null
+layout_spectrum: 0.5288935622666031
+typography_spectrum: 0.8560771537013352
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.97657839814201
+  lightness: 0.9325030008330941
+  saturation: 0.15563237317837775
+  rhythmicContrast: 0.16430344921536744
+purpose: []
